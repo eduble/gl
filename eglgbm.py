@@ -2,7 +2,7 @@
 import sys, os, glob, numpy as np
 from ctypes import pointer
 from collections import namedtuple
-import openglloader
+os.environ['PYOPENGL_PLATFORM'] = 'egl'
 import OpenGL.GL as gl
 import OpenGL.EGL as egl
 import gbm

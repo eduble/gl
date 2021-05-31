@@ -1,3 +1,7 @@
+
+May 31 2021: I wrote this repository in hope it could be useful for anyone else, but this was a very temporary project for me. 
+I am no longer working on this subject and have no time to maintain it. So this repository is now **archived**.
+
 # OpenGL headless on linux (EGL): sample program
 
 This repository contains a sample **python** program which runs **GPU computations (OpenGL) in headless mode (no display)**.
